@@ -2,7 +2,7 @@ package com.java;
 
 public class normal extends sample
 {
-
+hjhhghghhh
 	@Override
 	public void add() {
 		// TODO Auto-generated method stub
